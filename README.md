@@ -1,1 +1,1 @@
-# Instagram-stories-css-code
+# Instagram-stories-Tailwind-code
